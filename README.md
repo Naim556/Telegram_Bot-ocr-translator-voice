@@ -38,10 +38,10 @@ python bot.py
 
 ## 🧑‍💻 توسعه‌دهنده
 
-- 👤 آیدی تلگرام: [@Vioo669t](https://t.me/Vioo669t)
+- 👤 آیدی تلگرام: [@Vioo669](https://t.me/Vioo669)
 - 📬 اگر سوال یا پیشنهادی داشتی، خوشحال می‌شم بشنوم!
 
 ## 🔗 لینک ربات در تلگرام
 
-[ربات چندکاره تلگرام](https://t.me/YourBotUsername) ← ← ← *(یوزرنیم رباتتو اینجا وارد کن)*
+[@TextVVizardBot](https://t.me/@TextVVizardBot) 
 
