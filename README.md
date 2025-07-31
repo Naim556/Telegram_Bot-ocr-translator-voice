@@ -27,14 +27,6 @@
 - Tesseract OCR (نصب در سیستم)
 - Real-ESRGAN (برای افزایش کیفیت عکس)
 
-## ⚙️ اجرا
-
-ابتدا فایل‌های موردنیاز مثل `config.py` و پوشه‌های `utils/`, `ocr_extractor/`, `voice_to_text/`, `translate_text/`, `database/` رو آماده کن و بعد:
-
-```bash
-pip install -r requirements.txt
-python bot.py
-```
 
 ## 🧑‍💻 توسعه‌دهنده
 
